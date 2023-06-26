@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @adam-zakaria
+- 👋 Hi, I’m @adam-zakaria, I live in Cambridge, MA, USA.
 - 👀 I’m interested in talking to and working with thoughtful people.
-- 🌱 I’m currently reading Artifical Life (Steven Levy), Smellosophy (A.S. Barwich), and working on a game in Unity.
-- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: adam.p.zakaria@gmail.com
 
 <!---
